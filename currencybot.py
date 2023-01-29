@@ -363,5 +363,5 @@ async def on_message(message):
         await message.channel.send(embed=embed)
 
 
-client.run(config.fuckit_token)
+client.run(config.currencybot_token)
 # client.run("NzE1NDA4ODY3NDI0NDY5MDYz.XxM9Hg.rgehoxEalyPoBNiyLPJeJV4j0hE")
