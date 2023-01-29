@@ -364,4 +364,3 @@ async def on_message(message):
 
 
 client.run(config.currencybot_token)
-# client.run("NzE1NDA4ODY3NDI0NDY5MDYz.XxM9Hg.rgehoxEalyPoBNiyLPJeJV4j0hE")
