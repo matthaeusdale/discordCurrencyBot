@@ -21,8 +21,8 @@ A fully autonomous Discord bot dedicated to teaching individuals the basics of f
 
 ## Features
 - Dozens of interactive commands to help users simulate their portfolios.
-- 24/7 availability through the use of the discord.py library and MySQL for local storage and retrieval of data.
-- Supports over 30 concurrent users.
+- 24/7 availability through the use of the discord.py library
+- MySQL for local storage and retrieval of data.
 
 ## Getting Started
 
