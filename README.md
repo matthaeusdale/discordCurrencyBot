@@ -1,6 +1,24 @@
 # Financial Management Bot
 A fully autonomous Discord bot dedicated to teaching individuals the basics of financial management through an immersive portfolio simulation.
 
+## Available Commands
+
+| Command | Description |
+| --- | --- |
+| `!help` | Shows this help menu |
+| `!balance` | Shows the amount of money you have |
+| `!level` | Shows your level |
+| `!xp` | Shows the amount of experience you have |
+| `!work` | Allows you to work for money/EXP |
+| `!shop` | Shows the shop where you can buy items |
+| `!buy` | Allows you to buy an item |
+| `!ticket` | Allows you to buy a ticket for a certain price |
+| `!rob` | Allows you to steal from someone's goldmine |
+| `!order` | Allows you to order stocks |
+| `!sell` | Allows you to sell stocks |
+| `!market` | Allows you to see all stocks on the market |
+| `!portfolio` | Allows you to see all the stocks you own |
+
 ## Features
 - Dozens of interactive commands to help users simulate their portfolios.
 - 24/7 availability through the use of the discord.py library and MySQL for local storage and retrieval of data.
