@@ -5,7 +5,7 @@ A fully autonomous Discord bot dedicated to teaching individuals the basics of f
 
 | Command | Description |
 | --- | --- |
-| `!help` | Shows this help menu |
+| `!help` | Shows a help menu |
 | `!balance` | Shows the amount of money you have |
 | `!level` | Shows your level |
 | `!xp` | Shows the amount of experience you have |
