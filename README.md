@@ -38,9 +38,6 @@ A fully autonomous Discord bot featuring dozens of commands dedicated to teachin
 4. Replace the `BOT_TOKEN` in `config.py` with your Discord bot token.
 5. Run the bot using the command: `python bot.py`
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
 ## Acknowledgements
 - [Discord.py](https://github.com/Rapptz/discord.py) for providing the library for interacting with the Discord API.
 - [MySQL](https://www.mysql.com/) for local storage and retrieval of user data.
