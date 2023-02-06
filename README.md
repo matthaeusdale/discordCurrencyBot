@@ -1,4 +1,4 @@
-# Financial Discord Management Bot
+# Financial Management Discord Bot
 A fully autonomous Discord bot featuring dozens of commands dedicated to teaching individuals the basics of financial management through an immersive portfolio simulation.
 
 ## Available Commands
